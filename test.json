@@ -1,13 +1,41 @@
 {
-  "stickers":[
-    {
-      "image_file" : "https://www.placebear.com/200/200",
-      "emojis" : [":)", ":|"]
-    },
-    {
-      "image_file" : "https://www.placebear.com/200/202",
-      "emojis" : [";)", ":/"]
-    }
-    
-  ]
+    "android_play_store_link": "",
+    "ios_app_store_link": "",
+    "sticker_packs": [
+        {
+            "identifier": "1",
+            "name": "My Sticker Pack",
+            "publisher": "SRT RIZARU",
+            "tray_image_file": "placeholder.png",
+            "image_data_version","1",
+            "avoid_cache":false
+            "publisher_email": "srt-rizaru@srt.io",
+            "publisher_website": "synack.com",
+            "privacy_policy_website": "synack.com",
+            "license_agreement_website": "synack.com",
+            "stickers": [
+                {
+                    "image_file": "banner.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "bg_img.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "image_file": "ic_chef.webp",
+                    "emoji": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
 }
