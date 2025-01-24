@@ -15,21 +15,21 @@
             "license_agreement_website": "https://synack.com",
             "stickers": [
                 {
-                    "image_file": "https://www.placebear.com/300/301",
+                    "image_file": "https://raw.githubusercontent.com/WhatsApp/stickers/refs/heads/main/Android/app/src/main/assets/1/01_Cuppy_smile",
                     "emoji": [
                         ":)",
                         ";/"
                     ]
                 },
                 {
-                    "image_file": "https://www.placebear.com/300/302",
+                    "image_file": "https://raw.githubusercontent.com/WhatsApp/stickers/refs/heads/main/Android/app/src/main/assets/1/02_Cuppy_lol",
                     "emoji": [
                         ">_<",
                         ":("
                     ]
                 },
                 {
-                    "image_file": "https://www.placebear.com/300/303",
+                    "image_file": "https://raw.githubusercontent.com/WhatsApp/stickers/refs/heads/main/Android/app/src/main/assets/1/02_Cuppy_lol",
                     "emoji": [
                         "...",
                         "'_'"
